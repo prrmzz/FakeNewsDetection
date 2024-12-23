@@ -33,6 +33,7 @@ scaled_elevation: Normalized elevation values.
 A new column, suitable, is created based on whether a location's ghi exceeds the median irradiance:
 
 1: Suitable for solar panels (high irradiance).
+
 0: Unsuitable for solar panels (low irradiance).
 
 # 5. Building the Machine Learning Model
