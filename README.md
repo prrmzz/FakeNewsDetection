@@ -1,4 +1,4 @@
-#1. Libraries Used
+# 1. Libraries Used
 
 folium: Creates interactive maps for geographic visualization.
 pandas: Handles data in tabular form.
